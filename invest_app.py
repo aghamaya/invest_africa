@@ -79,7 +79,7 @@ def main():
     st.sidebar.markdown("Chatbot intelligent pour les opportunités d'investissement en Afrique 🌍💻")
     st.sidebar.image("https://hamayaag.com/wp-content/uploads/2024/03/LogoHamayaNewJauneJaune.png", use_column_width=True)
     st.sidebar.markdown("[Site web officiel](https://hamayaag.com) 🌐")
-    st.sidebar.markdown("© 2023 EduLingoBridge", unsafe_allow_html=True)
+    st.sidebar.markdown("© 2023 AfriqueInvestBot", unsafe_allow_html=True)
 
     # Sidebar - Paramètres
     st.sidebar.markdown("<h3 style='text-align: center;'>PARAMETRES</h3>", unsafe_allow_html=True)
